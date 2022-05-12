@@ -20,7 +20,7 @@ class bitflyer_order:
             "secret": "",
         })
         self.sleep_time = 10
-        self.path = "/home/ec2-user/jpy_cost"
+        self.path = ""#csv保存先パス
         return
         
     def chat(self, text):
