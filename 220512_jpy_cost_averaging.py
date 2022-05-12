@@ -1,5 +1,3 @@
-from ast import While
-from dataclasses import replace
 import ccxt
 from numpy import average
 import pandas as pd
